@@ -6,11 +6,14 @@ Las etapas que se realizan para desarrollar este proyecto son:
   o   Filtros  
   o   Detección de ciclos cardiacos  
   o   Envolvente  
+  
 2. Entrenamiento de algoritmo de máquina de aprendizaje.
   o   Creación del dataset de entrenamiento y de las etiquetas 
   o   Aplicacion del algoritmo de Redes Neuronales  
+  
 3. Validación del algoritmo  
   o   Prueba del algoritmo y revision del % de perdidas y de la exactitud 
+  
 4. Verificación de resultados  
   o   Visualización de señal de prueba y de la envolvente  
   o   Respuesta del algoritmo
