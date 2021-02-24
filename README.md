@@ -8,7 +8,7 @@ Las etapas que se realizan para desarrollar este proyecto son:
   o   Envolvente  
   
 2. Entrenamiento de algoritmo de máquina de aprendizaje.
-  o   Creación del dataset de entrenamiento y de las etiquetas 
+  o   Creación del dataset de entrenamiento y de las etiquetas
   o   Aplicacion del algoritmo de Redes Neuronales  
   
 3. Validación del algoritmo  
@@ -22,7 +22,7 @@ Las etapas que se realizan para desarrollar este proyecto son:
 Para el desarrollo de la practica se trabajo con el Software de Matalab tanto para el procesamiento de señales, creacion de los dataset, aplicacion de de las redes neuronales y la creacion de la interfaz grafica para la visualizacion de resultados.
 
 ## Presentado por:
-Christian Camilo Benavides
-Juan Jose Figueroa
+- Christian Camilo Benavides
+- Juan Jose Figueroa
 
 
